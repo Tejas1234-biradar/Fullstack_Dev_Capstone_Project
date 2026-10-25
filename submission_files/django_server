@@ -1,0 +1,11 @@
+Watching for file changes with StatReloader
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+October 25, 2026 - 14:11:00
+
+Django version 6.1.2, using settings 'djangoproj.settings'
+Development server is running at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
